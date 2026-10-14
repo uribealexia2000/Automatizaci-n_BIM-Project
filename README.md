@@ -1,6 +1,6 @@
 # Automatización_BIM
 
-Descripción breve y concisa sobre lo que hace este proyecto y el valor que aporta.
+Automatización de nomenclatura dentro de proyectos colaborativos de Revit.
 
 ## 🚀 Características
 - Automatización de procesos clave.
@@ -16,3 +16,6 @@ Descripción breve y concisa sobre lo que hace este proyecto y el valor que apor
 1. Clona el repositorio:
    ```bash
    git clone [[https://github.com/tu-usuario/nombre-del-proyecto.git](https://github.com/tu-usuario/nombre-del-proyecto.git)](https://github.com/uribealexia2000/Automatizaci-n_BIM-Project.git)
+2. Ingresa a las extensiones de Revit desde el explorador de archivos.
+3. Coloca los archivos del repositorio dentro de esta carpeta.
+4. Abre Revit (ya debe aparecer el ícono en el menú principal).
